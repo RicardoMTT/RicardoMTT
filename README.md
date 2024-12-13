@@ -2,7 +2,7 @@
 
 ### About me
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning mobile development using react native.
+- 🌱 I’m currently learning backend development using technologies like Spring Boot,Laravel,Nestjs,Express.
 - 💞️ I’m looking to collaborate on open source project 
 
 <!---
