@@ -26,7 +26,6 @@ You can click the Preview link to take a look at your changes.
 
 **Linkedin: [ricardo-tovar-868a57122](https://www.linkedin.com/in/ricardo-tovar-868a57122)**
 
-**Instagram: [zricardot](https://www.instagram.com/zricardot)**
 <!--
 <a href="https://stackoverflow.com/users/20190732/devwhat?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devwhat" height="30" width="40" /></a>
 -->
